@@ -1,2 +1,2 @@
-# learnpython
-personal python learning
+# Learning Python
+Python learning repo (from udacity) 
